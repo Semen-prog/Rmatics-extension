@@ -1,0 +1,13 @@
+{
+  "description": "View testing protocols without warnings",
+  "manifest_version": 3,
+  "name": "Rmatics_Protocol",
+  "version": "1.5",
+
+  "content_scripts": [
+       {
+           "matches": [ "https://rmatics.info/*" ],
+           "js": [ "6.js", "7.js", "8.js", "9.js", "10.js", "common.js", "runtime.js", "else.js", "polyfills.js", "modified.js" ]
+       }
+   ]
+}
