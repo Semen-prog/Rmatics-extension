@@ -1,5 +1,5 @@
-# Расширение для rmatics
- Предоставляет функции отображения протокола даже при наличии Warnings и Compilation Error. Работает для браузеров Chrome/Chromium
+# Расширение для [rmatics](https://rmatics.info)
+ Предоставляет функции отображения протокола на сайте [rmatics.info](https://rmatics.info) даже при наличии Warnings и Compilation Error. Работает для браузеров Chrome/Chromium.
 
  ### Инструкция по эксплуатации
   - Загрузите папку rmatics-ext из этого репозитория.
